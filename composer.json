@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminfilemanager",
+    "name": "codica-studio/adminfilemanager",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminfilemanager",
+    "homepage": "https://github.com/codica-studio/adminfilemanager",
     "license": "MIT",
     "authors": [
         {
