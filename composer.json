@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminfilemanager",
+    "name": "codicastudio/file-manager",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminfilemanager",
+    "homepage": "https://github.com/codicastudio/file-manager",
     "license": "MIT",
     "authors": [
         {
@@ -13,8 +13,7 @@
         }
     ],
     "require": {
-        "php": "^7.4 || ^8.0",
-        "laravel/nova": "^3.0"
+        "php": "^7.4 || ^8.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.0",
@@ -40,6 +39,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
